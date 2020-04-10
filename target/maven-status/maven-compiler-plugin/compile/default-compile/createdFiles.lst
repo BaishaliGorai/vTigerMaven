@@ -1,0 +1,11 @@
+com\vtiger\objectRepo\CampaignPage.class
+com\vtiger\objectRepo\CampInfoPage.class
+com\vtiger\objectRepo\LoginPage.class
+com\vtiger\genericLib\ListnerImplementaion.class
+com\vtiger\genericLib\FileData.class
+com\vtiger\objectRepo\CreateNewCampPage.class
+com\vtiger\genericLib\WebDriverCommonLib.class
+com\vtiger\objectRepo\HomePage.class
+com\vtiger\objectRepo\AssetPage.class
+com\vtiger\genericLib\BaseClass.class
+com\vtiger\objectRepo\AssetFilterPage.class

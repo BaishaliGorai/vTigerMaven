@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47286" started-at="2020-03-18T15:39:44Z" finished-at="2020-03-18T15:40:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47286" started-at="2020-03-18T15:39:44Z" finished-at="2020-03-18T15:40:31Z">
+      <class name="com.vtiger.testScripts.AssetFilterModTC12">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.vtiger.testScripts.AssetFilterModTC12@612679d6]" name="configBS" is-config="true" duration-ms="22" started-at="2020-03-18T15:39:44Z" finished-at="2020-03-18T15:39:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.vtiger.testScripts.AssetFilterModTC12@612679d6]" name="configBC" is-config="true" duration-ms="12193" started-at="2020-03-18T15:39:44Z" finished-at="2020-03-18T15:39:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vtiger.testScripts.AssetFilterModTC12@612679d6]" name="configBM" is-config="true" duration-ms="10859" started-at="2020-03-18T15:39:56Z" finished-at="2020-03-18T15:40:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="customDuration()[pri:0, instance:com.vtiger.testScripts.AssetFilterModTC12@612679d6]" name="customDuration" duration-ms="19059" started-at="2020-03-18T15:40:07Z" finished-at="2020-03-18T15:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customDuration -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.vtiger.testScripts.AssetFilterModTC12@612679d6]" name="configAM" is-config="true" duration-ms="4373" started-at="2020-03-18T15:40:26Z" finished-at="2020-03-18T15:40:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.vtiger.testScripts.AssetFilterModTC12@612679d6]" name="configAC" is-config="true" duration-ms="757" started-at="2020-03-18T15:40:31Z" finished-at="2020-03-18T15:40:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.vtiger.testScripts.AssetFilterModTC12@612679d6]" name="configAS" is-config="true" duration-ms="1" started-at="2020-03-18T15:40:31Z" finished-at="2020-03-18T15:40:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.vtiger.testScripts.AssetFilterModTC12 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
